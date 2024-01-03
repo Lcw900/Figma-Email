@@ -1,0 +1,211 @@
+<mjml>
+  <mj-head>
+    <mj-title>Email Template</mj-title>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&display=swap');
+
+      .try {
+        background-color: ffffff color:#000;
+        border: 1px solid black;
+        text-align: center;
+        font-family: noto sans;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 16px;
+        letter-spacing: 0.125px;
+      }
+
+      .try:hover {
+        color: #004c3f;
+        font-weight: bold;
+        text-decoration: underline;
+      }
+    </mj-style>
+
+
+    <mj-style inline="inline">
+
+
+
+
+    </mj-style>
+
+  </mj-head>
+
+
+  <mj-body>
+    <mj-container background-color="#D3D3D3">
+      <mj-section align="center" padding="40px 0 20px 0" background-color="#ffffff">
+        <mj-column>
+          <mj-image display="flex" width="91px" height="29.593px" padding="0px 6.602px 0px 7.398px" align="center" flex-shrink="0" src="https://iili.io/JRVCdRp.jpg" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="20px" background-color="#ffffff">
+        <mj-section padding="20px 20px 24px 20px" background-color="#ffffff">
+          <mj-column>
+            <mj-text color="#000" align="center" align-self="stretch" font-family="noto sans" font-size="36px" font-style="normal" font-weight="700" line-height="normal">
+              Email Template
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section>
+          <mj-column>
+            <mj-image css-class="hero" align="center" text-align="center" padding="24px 20px;" src="https://iili.io/JRVBpfa.png" alt="" />
+          </mj-column>
+          </mjsection>
+          <mj-section>
+            <mj-column>
+              <mj-text font-family="noto sans" font-size="19px" font-size="normal" font-weight="400" line-height="24px" color="#000" align="center">
+                Boost your emails with Blush! Create dope emails easy and fast! Install the Blush plugin to customize all the illustrations!
+              </mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-section display="flex" width="544px" height="636px" padding="20px" flex-direction="column" align-items="center" gap="24px" ;>
+            <mj-column display="flex" padding="13px" align-items="flex-start" gap="10px">
+              <mj-button class="try" background-color="#ffffff" color="#000" border="1px solid black" text-align="center" font-font-family="noto sans" font-size="14px" font-style="normal" font-weight="500" line-height="16px" letter-spacing="0.125px" href="https://google.com">
+                Try it now!
+              </mj-button>
+            </mj-column>
+          </mj-section>
+      </mj-wrapper padding="16px">
+      <mj-section background-color="#ffffff">
+        <mj-column display="flex" padding="0px 12px" flex-direction="column" align-items="flex start" gap="10px" flex="1 0 0">
+          <mj-image padding="0 12px" height="260px" align-self="stretch" border-radius="8px" src="https://iili.io/JRVC2ON.png" alt="" />
+        </mj-column>
+        <mj-column padding="16px 12px">
+          <mj-text color="#1c1E23" font-family="noto sans" font-size="27px" font-style="normal" font-weight="700" line-height="34px" align-self="stretch">
+            Customize this email template!
+          </mj-text>
+          <mj-text font-family="noto sans" font-size="19px" font-style="normal" font-weight="400" line-height="24px" padding-top="8px">
+            Boost your emails with Blush! Create dope emails easy and fast!
+          </mj-text>
+          <mj-button class="try" background-color="#FFFFFF" color="#000" border="1px solid black" align="left" font-font-family="noto sans" font-size="14px" font-style="normal" font-weight="500" line-height="16px" letter-spacing="0.125px" href="https://google.com">
+            Try it now!
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-wrapper>
+
+        <mj-wrapper color="red" display="flex" width:"600px" padding-top="40px" flex-direction="column" align-items="center" gap="40px">
+          <mj-section color=light grey display="flex" align-items="center" align-self="stretch">
+            <mj-column display="flex" padding="16px 12px" flex-direction="column" align-items="flex-start" gap="16px" flex="1 0 0">
+              <mj-text color="#1c1e23" font-family="noto sans" font-size="27px" font-style="normal" font-weight="700" line-height="34px" align-self="stretch" padding="16px 12px">
+                Customize this email template!
+              </mj-text>
+              <mj-text color="#000" font-family="noto sans" font-size="19px" font-style="normal" font-weight="300" line-height="24px" align-self="stretch" padding="8px 12px 16px 12px">
+                Boost your emails with Blush! Create dope emails easy and fast!
+              </mj-text>
+              <mj-button class="try" display="flex" background-color="#ffffff" color="#000" border="1px solid black" align="left" font-font-family="noto sans" font-size="14px" font-style="normal" font-weight="500" line-height="16px" letter-spacing="0.125px" href="https://google.com" padding="16px 12px">
+                Try it now!
+              </mj-button>
+            </mj-column>
+            <mj-column display="flex" padding="16px 12px" flex-direction="column" align=left gap="16px" flex="1 0 0">
+              <mj-image height="260px" align-self="stretch" border-radius="8px" src="https://iili.io/JRVC3bI.png" alt="" />
+            </mj-column>
+          </mj-section>
+        </mj-wrapper>
+
+        <mj-wrapper display="flex" width="600px" padding-top="40px" flex-direction="column" align-items="center" gap="40px" background-color="#ffffff">
+          <mj-section padding="16px">
+            <mj-column display="flex" padding="0 12px" flex-direction="column" align-items="flex-start" gap="10px" flex"1 0 0">
+              <mj-image height="260px" align-self="stretch" border-radius="8px" src="https://iili.io/JRVBbig.png">
+            </mj-column>
+
+            <mj-column>
+              <mj-text color="#1c1e23" font-family="noto sans" font-size="27px" font-style="normal" font-weight="700" line-height="34px" padding="16px 12px">
+                Customize this email template!
+              </mj-text>
+              <mj-text color="#000" font-family="noto sans" font-size="19px" font-style="normal" font-weight="300" line-height="24px" align-self="stretch" padding="8px 43px 16px 12px">
+                Boost your emails with Blush! Create dope emails easy and fast!
+              </mj-text>
+              <mj-button display="flex" background-color="#ffffff" color="#000" border="1px solid black" align="left" font-font-family="noto sans" font-size="14px" font-style="normal" font-weight="500" line-height="16px" letter-spacing="0.125px" href="https://google.com" padding="16px 12px">
+                Try it now!
+              </mj-button>
+            </mj-column>
+          </mj-section>
+          </mj-section display="flex" width="600px" padding-top="40px" flex-direction="column" align-items="center" gap="40px">
+          <mj-column width="628px" flex-shrink="0">
+            <mj-text color="#000" font-family="apercu pro" font-size="20px" font-style="normal" font-weight="400" line-height="153.5%" padding-bottom="60px">
+              Boost your emails with Blush! Create dope emails easy and fast!
+              Install the Blush plugin to customize all the illustrations!
+            </mj-text>
+
+            <mj-text color="#000" font-family="apercu pro" font-size="20px" font-style="normal" font-weight="400" line-height="153.5%">
+              Create the coolest emails!
+            </mj-text>
+          </mj-column>
+          <mj-section>
+
+            <mj-section display="flex" width="600px" padding-top="40px" flex-direction="column" align-items="center" gap="40px" padding-bottom="0">
+              <mj-column align="center">
+                <mj-image src="https://iili.io/JRVC9Uv.png" alt="" />
+              </mj-column>
+            </mj-section>
+            <mj-section padding=" 40px 20.5px 17px 20.5">
+              <mj-section display="flex" flex-direction="column" align="center">
+                <mj-text align="center" width="137px" height="22px" color="#000" font-family="noto nastaliq urdu" font-size="13px" font-style="normal" font-weight="400" line-height="142.5%">
+                  Corporation
+                </mj-text>
+                <mj-text align="center" width="347px" height="21px" color="#000" font-family="noto sans" font-size="13px" font-style="normal" font-weight="400" line-height="142.5%">
+                  You are receiving this email because you opted in via our website.
+                </mj-text>
+                <mj-text align="center" width="137px" height="21px" color="#000" font-family="noto sans" font-size="13px" font-style="normal" font-weight="400" line-height="142.5%">
+                  website.
+                </mj-text>
+              </mj-section>
+            </mj-section>
+
+            <mj-section height="180px" flex-direction="column" align="center" gap="25px" width="459px" max-width="400px" padding="0">
+              <mj-group class="social-media">
+                <mj-column>
+                  <mj-image width="24px" height="24px" href="https://twitter.com" src="https://iili.io/JRVCKxt.png" alt="Twitter" />
+                </mj-column align="center">
+                <mj-column>
+                  <mj-image width="24px" height="24px" href="https://instagram.com" src="https://iili.io/JRVBy0J.png" alt="Instagram" />
+                </mj-column>
+                <mj-column>
+                  <mj-image width="24px" height="24px" href="https://youtube.com" src="https://iili.io/JRVBtx1.png" alt="YouTube" />
+                </mj-column>
+                <mj-column>
+                  <mj-image width="24px" height="24px" href="https://dribbble.com" src="https://iili.io/JRVBDWF.png" alt="Dribbble" />
+                </mj-column>
+                <mj-column>
+                  <mj-image width="24px" height="24px" href="https://linkedin.com" src="https://iili.io/JRVCJJR.png" alt="Linkedin" />
+                </mj-column>
+              </mj-group>
+            </mj-section>
+
+
+
+            <mj-section padding-bottom="0px" height="30px">
+              <mj-group>
+                <mj-column>
+                  <mj-text color="#000" align="center" font-family="noto sans" font-size="13px" font-style="normal" font-weight="400" line-height="142.5%" width="165px" height="34px" padding="0 150px">
+                    Address, #PC City, State.
+                  </mj-text>
+                  <mj-text align="center" color="#000" font-family="noto sans" font-size="13px" font-style="normal" font-weight="400" line-height="142.5%" width="165px" height="42px" text-decoration-line="underline" padding="0 150px">
+                    <a href="https://google.com">
+                      Unsubscribe
+                    </a>
+                  </mj-text>
+                </mj-column>
+              </mj-group>
+            </mj-section>
+
+
+            <mj-section align="center" padding="0">
+              <mj-column>
+                <mj-image display="flex" width="91px" height="29.593px" padding="0px 6.602px 0px 7.398px" align="center" flex-shrink="0" src="https://iili.io/JRVCdRp.jpg" alt="" />
+              </mj-column>
+            </mj-section>
+
+        </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
